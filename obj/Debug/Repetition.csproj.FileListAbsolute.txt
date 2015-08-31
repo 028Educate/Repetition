@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\028 Educate\Code Solutions\Repetition\bin\Debug\Repetition.exe.config
+C:\Users\user\Desktop\028 Educate\Code Solutions\Repetition\bin\Debug\Repetition.exe
+C:\Users\user\Desktop\028 Educate\Code Solutions\Repetition\bin\Debug\Repetition.pdb
+C:\Users\user\Desktop\028 Educate\Code Solutions\Repetition\obj\Debug\Repetition.exe
+C:\Users\user\Desktop\028 Educate\Code Solutions\Repetition\obj\Debug\Repetition.pdb
